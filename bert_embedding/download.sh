@@ -1,0 +1,1 @@
+wget -O model.pth https://www.dropbox.com/s/prphzfzlb1mcwoh/model_best_epoch19_seen0.0466_unseen0.0739.pth
