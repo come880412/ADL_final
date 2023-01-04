@@ -1,0 +1,5 @@
+numpy
+pandas
+ckip-transformers
+rank_bm25
+tqdm
